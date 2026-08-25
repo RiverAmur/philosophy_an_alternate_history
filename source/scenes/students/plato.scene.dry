@@ -3,4 +3,4 @@ is-pinned-card: true
 tags: student
 card-image: img/portraits/AufhäuserSiegfried.jpg
 view-if: aufhauser_advisor = 1
-new-page: true 
+new-page: true
