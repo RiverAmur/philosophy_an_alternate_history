@@ -16,8 +16,7 @@ max-cards: 2
 
 - @party
 - @govt
-- #advisor
-- @shuffle_leadership_pinned
+- #student
 
 @party
 title: Personal Affairs
